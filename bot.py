@@ -1,5 +1,4 @@
 import os
-import asyncio
 import logging
 import google.generativeai as genai
 from telegram import Update
